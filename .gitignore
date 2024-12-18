@@ -4,6 +4,8 @@ node_modules/
 # Ignore environment variable files
 .env
 
+.gitignore
+
 # Ignore npm debug log
 npm-debug.log
 
